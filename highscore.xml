@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scores>
+    <score>
+      <name>Peer</name>
+        <value>200</value>
+      </score>
+    <score>
+      <name>Jan</name>
+      <value>200</value>
+    </score>
+    <score>
+      <name>Tom</name>
+      <value>500</value>
+    </score>
+</scores>

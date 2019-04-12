@@ -1,0 +1,33 @@
+*{
+  font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier;
+  background-color: #2d2d2d;
+}
+body{
+background-color: #2d2d2d;
+}
+
+h1{
+  color:white;
+  text-decoration-color: white;
+  text-align: center;
+}
+.nav-pills{
+  background: lightgray;
+  border-radius: 5px;
+}
+.nav-item{
+  color:lightgray;
+  background: lightgray;
+}
+.nav-link:hover{
+  background-color: #1988ff;
+}
+
+.nav-item:hover{
+  color:white;
+  background-color: black;
+  border-radius: 5px
+}
+.nav-item:hover{
+  background-color: #007bff;
+}
